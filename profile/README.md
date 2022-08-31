@@ -1,12 +1,14 @@
-## Hi there 👋
+<h1 align="center">Case Clicker 2 Utilities</h1>
+<hr>
+<h2>❓ About</h2>
+<b>Case Clicker 2 Utilities</b> have the best scripts for Case Clicker 2 and 1. Almost every script is created by Lapide, but if there isn't then the original author will be credited.
+<h2>📜 Scripts</h2>
 
-<!--
+**These are the best scripts for Case Clicker 1 & 2**
+- [Trading Save Changer](https://github.com/Case-Clicker-2-Utilities/Trading-Save-Changer) - *Type: **Save Loader***, for Case Clicker 2
 
-**Here are some ideas to get you started:**
+<h2>💬 Social</h2>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [Discord](https://discord.gg/6eaDrx5J9s)
+- [Youtube](https://www.youtube.com/channel/UCRA3KXViuDmsmfuP0RF45_w)
+- *Website Coming Soon*
