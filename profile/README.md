@@ -1,11 +1,10 @@
-<h1 align="center">Case Clicker 2 Utilities</h1>
+<h1 align="center">Fault Utilities</h1>
 <hr>
 <h2>❓ About</h2>
-<b>Case Clicker 2 Utilities</b> have the best scripts for Case Clicker 2 and 1. Almost every script is created by Lapide, but if there isn't then the original author will be credited.
+<b>Fault Utilities</b> have the multiple scripts for browser games and sometimes PC games. Script's are created by Fault Utility members, but sometimes they aren't. Original authors are always credited!.
 <h2>📜 Scripts</h2>
 
-**These are the best scripts for Case Clicker 1 & 2**
-- [Trading Save Changer](https://github.com/Case-Clicker-2-Utilities/Trading-Save-Changer) - *Type: **Save Loader***, for Case Clicker 2
+**Nothing Yet**
 
 <h2>💬 Social</h2>
 
