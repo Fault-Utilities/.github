@@ -1,7 +1,7 @@
 <h1 align="center">Fault Utilities</h1>
 <hr>
 <h2>❓ About</h2>
-<b>Fault Utilities</b> have the multiple scripts for browser games and sometimes PC games. Script's are created by Fault Utility members, but sometimes they aren't. Original authors are always credited!.
+<b>Fault Utilities</b> have the multiple scripts for browser games and sometimes PC games. Script's are created by Fault Utility members, but sometimes they aren't. Original authors are always credited. You can [check out our website](https://fault-utilities.glitch.me/) for more scripts!
 <h2>📜 Scripts</h2>
 
 <li><a href="https://github.com/Fault-Utilities/Hardcore-Client-csgo-clicker-mod-menu">Hardcore Client - <b>CS:GO Clicker Classic</b></a>
@@ -13,4 +13,4 @@
 
 - [Discord](https://discord.gg/6eaDrx5J9s)
 - [Youtube](https://www.youtube.com/channel/UCRA3KXViuDmsmfuP0RF45_w)
-- *Website Coming Soon*
+- [Website](https://fault-utilities.glitch.me/)
