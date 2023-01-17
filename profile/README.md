@@ -13,6 +13,15 @@
 
 <h2>💬 Social</h2>
 
-- [Discord](https://discord.gg/6eaDrx5J9s)
-- [Youtube](https://www.youtube.com/channel/UCRA3KXViuDmsmfuP0RF45_w)
-- [Website](https://fault-utilities.glitch.me/)
+Links for the orginization or to get in contact.
+- **[Discord Server](https://discord.gg/6eaDrx5J9s)**
+- **[Youtube Channel](https://www.youtube.com/channel/UCRA3KXViuDmsmfuP0RF45_w)**
+- **[Website](https://fault-utilities.glitch.me/)**
+
+<h2>🌐 Website</h2>
+URL: https://fault-utilities.glitch.me/
+
+### Pages
+- [Home](https://fault-utilities.glitch.me/)
+- [Downloads](https://fault-utilities.glitch.me/downloads.html)
+- [Code Snippets (Coming Soon)](https://fault-utilities.glitch.me/snippets.html)
